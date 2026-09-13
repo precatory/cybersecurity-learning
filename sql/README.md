@@ -1,38 +1,38 @@
-# 🗄️ SQL
+#  SQL
 
-This section documents my learning journey with **SQL and relational databases**, from fundamental concepts to database security.
+Esta sección documenta mi trayectoria de aprendizaje con **SQL y bases de datos relacionales**, desde los conceptos fundamentales hasta la seguridad de bases de datos.
 
-The focus is on understanding how SQL works, practicing queries, working with databases, and eventually applying this knowledge to cybersecurity.
-
----
-
-## 🎯 Goals
-
-- Understand relational database concepts.
-- Learn SQL syntax and query structure.
-- Write and analyze SQL queries.
-- Work with SQLite and other relational database systems.
-- Understand database relationships and data modeling.
-- Practice querying and manipulating data.
-- Learn common database security concepts.
-- Understand and prevent common SQL-related vulnerabilities.
+El objetivo es comprender cómo funciona SQL, practicar consultas, trabajar con bases de datos y, eventualmente, aplicar estos conocimientos al área de ciberseguridad.
 
 ---
 
-## 📚 Topics
+##  Objetivos
 
-### SQL Fundamentals
+- Comprender los conceptos de las bases de datos relacionales.
+- Aprender la sintaxis de SQL y la estructura de las consultas.
+- Escribir y analizar consultas SQL.
+- Trabajar con SQLite y otros sistemas de bases de datos relacionales.
+- Comprender las relaciones entre tablas y el modelado de datos.
+- Practicar la consulta y manipulación de datos.
+- Aprender conceptos comunes de seguridad de bases de datos.
+- Comprender y prevenir vulnerabilidades comunes relacionadas con SQL.
 
-- Databases
-- Relational databases
-- Tables
-- Rows and columns
-- Data types
-- Primary keys
-- Foreign keys
-- Basic SQL syntax
+---
 
-### Queries
+##  Temas
+
+### Fundamentos de SQL
+
+- Bases de datos
+- Bases de datos relacionales
+- Tablas
+- Filas y columnas
+- Tipos de datos
+- Primary Keys
+- Foreign Keys
+- Sintaxis básica de SQL
+
+### Consultas
 
 - `SELECT`
 - `FROM`
@@ -40,10 +40,10 @@ The focus is on understanding how SQL works, practicing queries, working with da
 - `DISTINCT`
 - `LIMIT`
 
-### Filtering & Sorting
+### Filtrado y Ordenamiento
 
-- Comparison operators
-- Logical operators
+- Operadores de comparación
+- Operadores lógicos
 - `AND`
 - `OR`
 - `NOT`
@@ -51,15 +51,15 @@ The focus is on understanding how SQL works, practicing queries, working with da
 - `ASC`
 - `DESC`
 
-### Data Manipulation
+### Manipulación de Datos
 
 - `INSERT`
 - `UPDATE`
 - `DELETE`
 
-### Aggregation
+### Agregación
 
-- Aggregate functions
+- Funciones de agregación
 - `COUNT`
 - `SUM`
 - `AVG`
@@ -74,9 +74,9 @@ The focus is on understanding how SQL works, practicing queries, working with da
 - `LEFT JOIN`
 - `RIGHT JOIN`
 - `FULL OUTER JOIN`
-- Table relationships
+- Relaciones entre tablas
 
-### Advanced Queries
+### Consultas Avanzadas
 
 - Subqueries
 - Nested queries
@@ -84,111 +84,112 @@ The focus is on understanding how SQL works, practicing queries, working with da
 - Views
 - Set operations
 
-### Database Design
+### Diseño de Bases de Datos
 
-- Relationships
-- Normalization
+- Relaciones
+- Normalización
 - Constraints
-- Primary keys
-- Foreign keys
-- Indexes
+- Primary Keys
+- Foreign Keys
+- Índices
 
-### SQL & Cybersecurity
+### SQL y Ciberseguridad
 
 - SQL Injection
 - Parameterized queries
 - Prepared statements
-- Input validation
+- Validación de entradas
 - Least privilege
-- Database security
-- Secure database practices
+- Seguridad de bases de datos
+- Prácticas seguras para bases de datos
 
 ---
 
-## 🧪 Practical Labs
+##  Laboratorios Prácticos
 
-Hands-on exercises will be used to reinforce SQL concepts.
+Los ejercicios prácticos se utilizarán para reforzar los conceptos de SQL.
 
-Current practice includes:
+La práctica actual incluye:
 
 - SQLite
-- SQL query exercises
-- Database manipulation
-- Query analysis
-- Security-oriented SQL exercises
+- Ejercicios de consultas SQL
+- Manipulación de bases de datos
+- Análisis de consultas
+- Ejercicios de SQL orientados a la seguridad
 
-More laboratories will be added as my knowledge develops.
+Se añadirán más laboratorios a medida que avance mi conocimiento.
 
 ---
 
-## 📝 Notes
+##  Notas
 
-Detailed notes will be organized by topic as I progress.
+Las notas detalladas se organizarán por tema a medida que avance en mi aprendizaje.
 
-Each note may include:
+Cada nota puede incluir:
 
-- Concept explanation
-- Syntax
-- Examples
-- Practical exercises
-- Common mistakes
+- Explicación del concepto
+- Sintaxis
+- Ejemplos
+- Ejercicios prácticos
+- Errores comunes
 - Troubleshooting
-- Security considerations
-- Lessons learned
+- Consideraciones de seguridad
+- Lecciones aprendidas
 
 ---
 
-## 🛠️ Tools
+##  Herramientas
 
-Current tools and platforms used for SQL learning include:
+Las herramientas y plataformas utilizadas actualmente para aprender SQL incluyen:
 
 - SQLite
 - SQLBolt
-- SQLite documentation
-- Other SQL learning resources
+- Documentación de SQLite
+- Otros recursos de aprendizaje de SQL
 
-Additional tools will be added as needed.
-
----
-
-## 📈 Progress
-
-This section will evolve progressively as new SQL concepts are studied and practiced.
-
-The objective is to move from:
-
-**Fundamentals**
-
-↓
-
-**Querying**
-
-↓
-
-**Database Design**
-
-↓
-
-**Advanced SQL**
-
-↓
-
-**Database Security**
-
-↓
-
-**Cybersecurity Applications**
+Se añadirán herramientas adicionales cuando sean necesarias.
 
 ---
 
-## ⚠️ Learning Philosophy
+##  Progreso
 
-The goal is not simply to memorize SQL syntax.
+Esta sección evolucionará progresivamente a medida que se estudien y practiquen nuevos conceptos de SQL.
 
-I aim to understand:
+El objetivo es avanzar desde:
 
-> **What a query does, why it works, how the database processes it, and how it can be used securely.**
+**Fundamentos**
+
+↓
+
+**Consultas**
+
+↓
+
+**Diseño de Bases de Datos**
+
+↓
+
+**SQL Avanzado**
+
+↓
+
+**Seguridad de Bases de Datos**
+
+↓
+
+**Aplicaciones en Ciberseguridad**
 
 ---
 
-⬅️ [Back to Cybersecurity Learning Journey](../README.md)
+##  Filosofía de Aprendizaje
+
+El objetivo no es simplemente memorizar la sintaxis de SQL.
+
+Busco comprender:
+
+> **Qué hace una query, por qué funciona, cómo la procesa la base de datos y cómo puede utilizarse de forma segura.**
+
+---
+
+ [Volver al repositorio de Ciberseguridad](../README.md)
+
