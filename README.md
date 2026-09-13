@@ -1,131 +1,120 @@
-# cybersecurity-learning
-My hands-on journey into cybersecurity, Linux, networking, SQL and Python. Documenting what I learn through notes, labs and projects.
+# Mi Trayectoria de Aprendizaje en Ciberseguridad
 
-# 🛡️ Cybersecurity Learning Journey
+Bienvenido a mi repositorio de aprendizaje en ciberseguridad.
 
-Welcome to my cybersecurity learning repository.
+Este repositorio documenta mi trayectoria de aprendizaje en **Ciberseguridad, Linux, Networking, SQL y Python**, combinando conocimientos teóricos con práctica, laboratorios y proyectos personales.
 
-This repository documents my journey into **Cybersecurity, Linux, Networking, SQL and Python**, combining theoretical knowledge with hands-on practice, laboratories and personal projects.
-
-The goal is not simply to learn tools or memorize commands, but to understand how technologies work, apply that knowledge in practical environments, and progressively build real-world technical skills.
+El objetivo no es simplemente aprender herramientas o memorizar comandos, sino comprender cómo funcionan las tecnologías, aplicar ese conocimiento en entornos prácticos y desarrollar progresivamente habilidades técnicas aplicables al mundo real.
 
 ---
 
-## 🎯 Goals
+## Objetivos
 
-- Build strong foundations in Linux and computer networking.
-- Develop solid SQL and database knowledge.
-- Improve Python programming and automation skills.
-- Strengthen cybersecurity fundamentals through hands-on practice.
-- Develop offensive and defensive security skills.
-- Build practical cybersecurity projects.
-- Document technical knowledge and problem-solving processes.
-- Create a portfolio that demonstrates continuous technical progression.
-
----
-
-## 📚 Areas of Study
-
-| Area | Status |
-|---|---|
-| 🐧 Linux | 🟡 In Progress |
-| 🌐 Networking | 🟡 In Progress |
-| 🗄️ SQL | 🟡 In Progress |
-| 🐍 Python | 🟡 In Progress |
-| 🔐 Cybersecurity | 🟡 In Progress |
-| ⚔️ Pentesting | 🔴 Starting |
-| 🛡️ Blue Team | 🔴 Starting |
-| 🟣 Purple Team | 🔴 Starting |
-
-### Status Legend
-
-- 🟢 **Completed** — Core topics have been studied and practiced.
-- 🟡 **In Progress** — Currently studying and practicing.
-- 🔴 **Starting** — Planned or at an early stage.
+- Construir bases sólidas en Linux y Networking.
+- Desarrollar conocimientos sólidos de SQL y bases de datos.
+- Mejorar mis habilidades de programación y automatización con Python.
+- Fortalecer mis fundamentos de ciberseguridad mediante práctica constante.
+- Desarrollar habilidades de seguridad ofensiva y defensiva.
+- Construir proyectos prácticos relacionados con ciberseguridad.
+- Documentar conocimientos técnicos y procesos de resolución de problemas.
+- Crear un portafolio que demuestre una progresión técnica continua.
 
 ---
 
-## 🧠 Learning Approach
+## Áreas de Estudio
 
-My learning process follows a simple progression:
-
-**Learn → Document → Practice → Build → Share**
-
-The repository is organized around **technical knowledge and skills**, rather than around the courses or platforms where that knowledge was acquired.
-
-Courses, books, documentation and platforms are treated as learning resources, while the knowledge and practical work are organized by subject.
-
-This approach allows the repository to evolve as my skills grow.
-
----
-
-## 🧪 Hands-on Practice
-
-Theory is reinforced through practical exercises and controlled laboratory environments.
-
-Hands-on practice may include:
-
-- Linux administration
+- Linux 
 - Networking
-- SQL and databases
-- Python scripting
-- Automation
-- Reconnaissance
-- Enumeration
-- Web security
-- Vulnerability analysis
-- Privilege escalation
-- Log analysis
-- Security monitoring
-- Defensive security techniques
-
-All security-related experiments are performed in **authorized and controlled environments**.
+- SQL 
+- Python 
+- Ciberseguridad 
+- Pentesting 
+- Blue Team 
+- Purple Team 
 
 ---
 
-## 🚀 Projects
+## Método de Aprendizaje
 
-Projects will be added progressively as I develop the knowledge required to build them.
+Mi proceso de aprendizaje sigue una progresión sencilla:
 
-Projects may combine multiple areas such as:
+**Aprender → Documentar → Practicar → Construir → Compartir**
+
+El repositorio está organizado en torno al **conocimiento y las habilidades técnicas**, en lugar de organizarse según los cursos o plataformas donde adquirí dichos conocimientos.
+
+Los cursos, libros, documentación y plataformas son utilizados como recursos de aprendizaje, mientras que el conocimiento y el trabajo práctico se organizan por área técnica.
+
+Este enfoque permite que el repositorio evolucione a medida que desarrollan mis habilidades.
+
+---
+
+## Práctica y Laboratorios
+
+Los conocimientos teóricos se refuerzan mediante ejercicios prácticos y entornos de laboratorio controlados.
+
+La práctica puede incluir:
+
+- Administración de Linux
+- Networking
+- SQL y bases de datos
+- Scripting con Python
+- Automatización
+- Reconocimiento (*Reconnaissance*)
+- Enumeración (*Enumeration*)
+- Seguridad web
+- Análisis de vulnerabilidades
+- Escalada de privilegios (*Privilege Escalation*)
+- Análisis de logs
+- Monitoreo de seguridad
+- Técnicas de seguridad defensiva
+
+Todas las actividades relacionadas con ciberseguridad se realizan en **entornos autorizados y controlados**.
+
+---
+
+## Proyectos
+
+Los proyectos se irán incorporando progresivamente a medida que desarrolle los conocimientos necesarios para construirlos.
+
+Estos proyectos pueden combinar diferentes áreas, como:
 
 - Python
 - Linux
 - Networking
 - SQL
-- Automation
-- Cybersecurity
+- Automatización
+- Ciberseguridad
 
-The objective is to move from isolated exercises toward increasingly complete and practical solutions.
+El objetivo es avanzar desde ejercicios aislados hacia soluciones cada vez más completas y prácticas.
 
-### Current Projects
+### Proyectos Actuales
 
-- Coming soon...
-
----
-
-## 📈 Learning Progress
-
-This repository is not intended to be a simple activity log.
-
-Instead, I use it to document meaningful progress, including:
-
-- Concepts I have studied.
-- Technical notes and explanations.
-- Practical exercises.
-- Laboratory environments.
-- Problems and mistakes encountered.
-- Troubleshooting processes.
-- Solutions and lessons learned.
-- Scripts and automation.
-- Personal projects.
-- Important technical resources.
-
-The objective is to make my learning process **visible, reproducible and measurable**.
+- Próximamente...
 
 ---
 
-## 🗂️ Repository Structure
+## Progreso de Aprendizaje
+
+Este repositorio no pretende ser simplemente un registro de actividades.
+
+En su lugar, lo utilizo para documentar avances significativos, incluyendo:
+
+- Conceptos que he estudiado.
+- Notas y explicaciones técnicas.
+- Ejercicios prácticos.
+- Entornos de laboratorio.
+- Problemas y errores encontrados.
+- Procesos de resolución de problemas (*Troubleshooting*).
+- Soluciones y lecciones aprendidas.
+- Scripts y automatizaciones.
+- Proyectos personales.
+- Recursos técnicos importantes.
+
+El objetivo es hacer que mi proceso de aprendizaje sea **visible, reproducible y medible**.
+
+---
+
+## Estructura del Repositorio
 
 ```text
 cybersecurity-learning/
